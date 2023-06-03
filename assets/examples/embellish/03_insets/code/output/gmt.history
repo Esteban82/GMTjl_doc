@@ -1,0 +1,12 @@
+# GMT 6 Session common arguments shelf
+BEGIN GMT 6.5.0
+B	afWSen+tStepped patch histogram
+J	X
+JD	D15.5/37.5/33.833333333333336/44.833333333333336/15c
+JM	M15c
+Jm	m0.4
+JX	X15/10
+R	-3.6/3.6/0/52
+X	3.5
+@L	3
+END
